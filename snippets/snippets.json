@@ -1,0 +1,16 @@
+{
+	"Print to console": {
+		"prefix": "c",
+		"body": [
+			"console.log('$1');"
+		],
+		"description": "控制台打印"
+	},
+	"Print to alert": {
+		"prefix": "a",
+		"body": [
+			"alert('$1');"
+		],
+		"description": "弹窗警告"
+	}
+}
